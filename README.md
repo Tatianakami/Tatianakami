@@ -1,67 +1,80 @@
-<p align="left">About Me</p>
+ Olá, eu sou a Tatiana Kami! 👋
 
-###
+💻 Desenvolvedora Front-End Júnior**  
+📍 São Paulo, Brasil  
+🎓 Engenheira em transição de carreira para tecnologia  
+🌱 Apaixonada por criar experiências de usuário envolventes e interfaces dinâmicas.
 
-<div align="center">
-  <img height="100" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+🚀 Sobre Mim
 
-###
+Sou uma desenvolvedora front-end em transição de carreira, com formação em Engenharia de Produção e pós-graduação em Análise e Desenvolvimento de Sistemas e Segurança da Informação. Tenho experiência em suporte técnico, atendimento ao cliente e resolução de problemas, o que me permite atuar com eficiência na experiência do usuário e no atendimento às necessidades do negócio. Atualmente, estou estudando **Python** para ampliar minhas habilidades e contribuir ainda mais para o desenvolvimento de soluções eficientes.
 
-<p align="left">Olá! Eu sou a Tatiana,  Desenvolvedora Front-End Júnior.<br><br>Sou Engenheira em transição de carreira para área de tecnologia, estou sempre em busca de desenvolvimento continuo, tenho pós graduação em Analise e Desenvolvimento de Sistemas e especialização em Segurança da Informação.<br><br>Sou apaixonada por criar experiências de usuário envolventes e interfaces dinâmicas. Com foco em HTML, CSS e JavaScript, estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades para entregar soluções de qualidade.<br><br>🌱 O que estou aprendendo<br>React para construir interfaces mais dinâmicas.<br>TypeScript para escrever código JavaScript mais seguro.<br>Design Responsivo para uma ótima experiência em dispositivos móveis.</p>
+ 🛠️ Tecnologias e Ferramentas
 
-###
+- Linguagens: JavaScript (ES6+), HTML5, CSS3, TypeScript (em aprendizado)
+- Frameworks: React.js, Styled Components, CSS Modules, Vite.js
+- APIs: Consumo de APIs com Fetch e Axios
+- Ferramentas: Git, GitHub, Figma
+- Outros: Python (em aprendizado)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/tatiana-k-lima/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+🌱 O que estou aprendendo
 
-###
+- React: Para construir interfaces mais dinâmicas.
+- TypeScript: Para escrever código JavaScript mais seguro.
+- Design Responsivo**: Para uma ótima experiência em dispositivos móveis.
+- Python: Para ampliar minhas habilidades em desenvolvimento.
 
-<p align="left">Techs</p>
+📂 Projetos Destacados
 
-###
+Aqui estão alguns dos projetos que desenvolvi:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-</div>
+ 1. [Pokedex](https://github.com/Tatianakami/pokedex)
+Uma aplicação interativa para busca e exibição de Pokémon via API pública.
 
-###
+ 2. [Conversor de Moedas](https://github.com/Tatianakami/conversor-moedas)
+Um conversor de moedas com integração a APIs de câmbio.
 
-<p align="left">Stats</p>
+3. [Clima Tempo](https://github.com/Tatianakami/clima-tempo)
+Aplicação para consulta de previsão do tempo com busca dinâmica.
 
-###
+ 4. [Calculadora](https://github.com/Tatianakami/calculadora)
+Calculadora funcional construída com React.js.
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tatianakami&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="149" alt="stats graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tatianakami&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+---
 
-###
+ 💼 Experiência Profissional
+ 
+Analista Financeiro  
+Gestão de contas a receber, classificação e registro financeiro.
 
-<p align="left">Entre em contato e vamos conversar!</p>
+Analista de Logística  
+Execução de inventários rotativos, garantindo a precisão logística.
+Gestão e controle de estoque para conformidade com os procedimentos da empresa.
+ 
+Analista de Atendimento ao Cliente 
+Suporte via chat, e-mail e telefone, fornecendo soluções e acompanhamento de demandas.
 
-###
--->
+🎓 Formação Acadêmica
+
+- Pós-Graduação em Análise e Desenvolvimento de Sistemas – UNIDERP (2023-2024)
+- Pós-Graduação em Segurança da Informação – UNIDERP (2023-2024)
+- Bacharelado em Engenharia de Produção – UNIABC (2015)
+
+---
+
+ 🌐 Idiomas
+
+- Inglês**: Intermediário (B1)
+- Espanhol**: Intermediário (B1)
+- Francês**: Básico (A1)
+
+---
+
+📫 Como me encontrar
+
+- LinkedIn: [in/tatiana-k-lima](https://www.linkedin.com/in/tatiana-kami/)
+- Portfólio: [https://tatianakami.github.io/](https://tatianakami.github.io/)
+- E-mail: [seu-email@example.com](tatianakamioka@gmail.com)
+
+
+
