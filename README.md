@@ -74,7 +74,7 @@ Suporte via chat, e-mail e telefone, fornecendo soluções e acompanhamento de d
 
 - LinkedIn: [in/tatiana-k-lima](https://www.linkedin.com/in/tatiana-kami/)
 - Portfólio: [https://tatianakami.github.io/](https://tatianakami.github.io/)
-- E-mail: [seu-email@example.com](tatianakamioka@gmail.com)
+
 
 
 
