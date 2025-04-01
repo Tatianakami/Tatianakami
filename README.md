@@ -72,7 +72,7 @@ Suporte via chat, e-mail e telefone, fornecendo soluções e acompanhamento de d
 
 📫 Como me encontrar
 
-- LinkedIn: [in/tatiana-k-lima](linkedin.com/in/tatiana-kami/)
+- LinkedIn: linkedin.com/in/tatiana-kami
 - Portfólio: [https://tatianakami.github.io/](https://tatianakami.github.io/)
 
 
