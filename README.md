@@ -1,38 +1,48 @@
- Olá, eu sou a Tatiana Kami! 👋
+# 👩‍💻 Tatiana Kamioka
 
-💻 Desenvolvedora Front-End Júnior**  
-📍 São Paulo, Brasil  
-🎓 Engenheira em transição de carreira para tecnologia  
-🌱 Apaixonada por criar experiências de usuário envolventes e interfaces dinâmicas.
+💙 Desenvolvedora Full Stack em formação  
+🌐 Foco atual em Front-end com Vue.js, JavaScript, HTML e CSS  
+🐍 Estudo contínuo em Back-end com Python, Flask, APIs REST e Banco de Dados  
+📍 São Paulo, SP | [LinkedIn](https://linkedin.com/in/tatiana-kami) | [Portfólio](https://tatianakami.github.io/)
 
-🚀 Sobre Mim
+---
 
-Sou uma desenvolvedora front-end em transição de carreira, com formação em Engenharia de Produção e pós-graduação em Análise e Desenvolvimento de Sistemas e Segurança da Informação. Tenho experiência em suporte técnico, atendimento ao cliente e resolução de problemas, o que me permite atuar com eficiência na experiência do usuário e no atendimento às necessidades do negócio. Atualmente, estou estudando **Python** para ampliar minhas habilidades e contribuir ainda mais para o desenvolvimento de soluções eficientes.
+## 🚀 Sobre mim
 
- 🛠️ Tecnologias e Ferramentas
+Sou apaixonada por tecnologia e pela possibilidade de transformar ideias em soluções funcionais.  
+Atualmente estou focada em desenvolver aplicações web com Vue.js, mas também estudo back-end com Python e Flask, integrando APIs e bancos de dados relacionais como SQLite e MySQL.
 
-- Linguagens: JavaScript (ES6+), HTML5, CSS3, TypeScript (em aprendizado)
-- Frameworks: React.js, Styled Components, CSS Modules, Vite.js
-- APIs: Consumo de APIs com Fetch e Axios
-- Ferramentas: Git, GitHub, Figma
-- Outros: Python (em aprendizado)
+Estou sempre aprendendo, praticando e compartilhando meus projetos aqui no GitHub.  
+Busco oportunidades para atuar como desenvolvedora júnior, estagiária ou colaboradora em projetos open source.
 
-🌱 O que estou aprendendo
+---
 
-- React: Para construir interfaces mais dinâmicas.
-- TypeScript: Para escrever código JavaScript mais seguro.
-- Design Responsivo**: Para uma ótima experiência em dispositivos móveis.
-- Python: Para ampliar minhas habilidades em desenvolvimento.
+## 🛠️ Tecnologias e Ferramentas
 
-📂 Projetos Destacados
+- **Front-end:** HTML5, CSS3, JavaScript (ES6+), Vue.js, React (básico), Figma  
+- **Back-end:** Python, Flask, APIs REST, SQLite, MySQL, Node.js (básico)  
+- **Ferramentas:** Git & GitHub, VS Code, Scrum/Kanban  
+- **Estudos em andamento:** Automação e análise de dados com Python
 
-Aqui estão alguns dos projetos que desenvolvi:
+---
 
- 1. [Pokedex](https://github.com/Tatianakami/pokedex)
-Uma aplicação interativa para busca e exibição de Pokémon via API pública.
+## 📁 Projetos em destaque
 
- 2. [Conversor de Moedas](https://github.com/Tatianakami/conversor-moedas)
-Um conversor de moedas com integração a APIs de câmbio.
+| Projeto | Descrição | Tecnologias | Link |
+|--------|-----------|-------------|------|
+| **Agenda de Contatos** | CRUD completo com Flask e SQLite | Python, Flask, Bootstrap | [Ver no GitHub](https://github.com/Tatianakami/agenda-flask) |
+| **Controle de Produtos** | Gerenciamento de produtos com Vue.js | Vue.js, JavaScript | [Ver no GitHub](https://github.com/Tatianakami/Controle-de-Produtos) |
+| **To-Do List Avançada** | Lista de tarefas com persistência local | React, CSS Grid | [Ver no GitHub](https://github.com/Tatianakami/To-do-list-app) |
+| **Conversor de Moedas** | Conversão entre BRL, USD e EUR com API | JavaScript, ExchangeRate API | [Ver no GitHub](https://github.com/Tatianakami/conversor-moedas) |
+
+---
+
+## 🤝 Vamos nos conectar!
+
+Me adicione no [LinkedIn](https://linkedin.com/in/tatiana-kami) ou conheça meu [portfólio pessoal](https://tatianakami.github.io/).  
+Estou aberta a oportunidades, colaboração em projetos e troca de ideias com a comunidade dev! 💬
+
+---
 
 3. [Clima Tempo](https://github.com/Tatianakami/clima-tempo)
 Aplicação para consulta de previsão do tempo com busca dinâmica.
