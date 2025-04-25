@@ -76,7 +76,7 @@ Suporte via chat, e-mail e telefone, fornecendo soluções e acompanhamento de d
 
 - Inglês**: Intermediário (B1)
 - Espanhol**: Intermediário (B1)
-- Francês**: Básico (A1)
+
 
 ---
 
