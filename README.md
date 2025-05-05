@@ -1,39 +1,64 @@
-# 👩‍💻 Tatiana Kamioka
+# Tatiana Kamioka
 
-💙 Desenvolvedora Full Stack em formação  
-🌐 Foco atual em Front-end com Vue.js, JavaScript, HTML e CSS  
-🐍 Estudo contínuo em Back-end com Python, Flask, APIs REST e Banco de Dados  
-📍 São Paulo, SP | [LinkedIn](https://linkedin.com/in/tatiana-kami) | [Portfólio](https://tatianakami.github.io/)
-
----
-
-## 🚀 Sobre mim
-
-Sou apaixonada por tecnologia e pela possibilidade de transformar ideias em soluções funcionais.  
-Atualmente estou focada em desenvolver aplicações web com Vue.js, mas também estudo back-end com Python e Flask, integrando APIs e bancos de dados relacionais como SQLite e MySQL.
-
-Estou sempre aprendendo, praticando e compartilhando meus projetos aqui no GitHub.  
-Busco oportunidades para atuar como desenvolvedora júnior, estagiária ou colaboradora em projetos open source.
+🎯 **Desenvolvedora Web em formação com foco em Front-end e PHP**  
+💻 HTML | CSS | JavaScript | Vue.js | PHP  
+📊 Engenheira de Produção com raciocínio analítico voltado à resolução de problemas reais  
+🔄 Em transição profissional com projetos funcionais voltados à experiência do usuário e soluções práticas.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## ✨ Sobre Mim
 
-- **Front-end:** HTML5, CSS3, JavaScript (ES6+), Vue.js, React (básico), Figma  
-- **Back-end:** Python, Flask, APIs REST, SQLite, MySQL, Node.js (básico)  
-- **Ferramentas:** Git & GitHub, VS Code, Scrum/Kanban  
-- **Estudos em andamento:** Automação e análise de dados com Python
+Sou Tatiana Kamioka, apaixonada por tecnologia e por resolver problemas reais com código. Minha formação em Engenharia de Produção me proporcionou visão sistêmica, pensamento crítico e capacidade de análise — habilidades que aplico diretamente no desenvolvimento de interfaces modernas, funcionais e centradas no usuário.
+
+Atualmente me dedico aos estudos de desenvolvimento web, com foco em **Front-end (HTML, CSS, JavaScript e Vue.js)** e **Back-end com PHP e MySQL**, visando me tornar uma **Full Stack Developer Júnior** preparada para atuar em projetos de impacto.
 
 ---
 
-## 📁 Projetos em destaque
+## 💡 Habilidades Técnicas
 
-| Projeto | Descrição | Tecnologias | Link |
-|--------|-----------|-------------|------|
-| **Agenda de Contatos** | CRUD completo com Flask e SQLite | Python, Flask, Bootstrap | [Ver no GitHub](https://github.com/Tatianakami/agenda-flask) |
-| **Controle de Produtos** | Gerenciamento de produtos com Vue.js | Vue.js, JavaScript | [Ver no GitHub](https://github.com/Tatianakami/Controle-de-Produtos) |
-| **To-Do List Avançada** | Lista de tarefas com persistência local | React, CSS Grid | [Ver no GitHub](https://github.com/Tatianakami/To-do-list-app) |
-| **Conversor de Moedas** | Conversão entre BRL, USD e EUR com API | JavaScript, ExchangeRate API | [Ver no GitHub](https://github.com/Tatianakami/conversor-moedas) |
+- **HTML5 & CSS3** – Layouts responsivos, semântica, animações e design moderno.
+- **JavaScript** – Manipulação de DOM, lógica, interatividade e validações.
+- **Vue.js** – Componentização, reatividade e projetos SPA em estudo.
+- **PHP & MySQL** – Backend em construção, com lógica de autenticação, banco de dados e integração simples.
+- **Python (básico)** – Uso em scripts e pequenos projetos integrados a front-end.
+- **Versionamento** – Git & GitHub para controle de versões e colaboração.
+
+---
+
+## 🧠 Como a Engenharia de Produção me fortalece como Dev
+
+Minha formação desenvolveu em mim:
+
+- Capacidade de **estruturar processos** e pensar em fluxos eficientes — útil na organização do código.
+- **Tomada de decisões com base em dados** — habilidade essencial em projetos com lógica de negócio.
+- Visão **orientada a resultados** — foco em entregar soluções que realmente funcionam.
+- Comunicação clara e trabalho em equipe — essenciais para desenvolvimento colaborativo e metodologias ágeis.
+
+---
+
+
+## 📌 Projetos em Destaque
+
+### ✅ [Login de Banco Fictício (HTML, CSS, JS)](https://github.com/Tatianakami/loginfront)
+
+> Projeto completo simulando o processo de login de um banco. Inclui:
+- Validação de usuário e senha
+- Captcha simples
+- Dashboard de boas-vindas
+- Animações (efeito “cobrinha”)
+- Armazenamento no LocalStorage  
+🧠 Foco: Segurança básica, UX e visual interativo.
+
+---
+
+### ✅ [Gerenciador de Produtos com Validade](https://github.com/Tatianakami/supermercado)
+
+> Um sistema para adicionar, visualizar e deletar produtos de supermercado com controle de validade.  
+- Interface amigável com JavaScript puro
+- Destaque visual para produtos vencendo
+- Estrutura ideal para integração futura com banco de dados  
+🧠 Foco: Resolução de problema real com lógica.
 
 ---
 
@@ -44,25 +69,14 @@ Estou aberta a oportunidades, colaboração em projetos e troca de ideias com a 
 
 ---
 
-3. [Clima Tempo](https://github.com/Tatianakami/clima-tempo)
-Aplicação para consulta de previsão do tempo com busca dinâmica.
+## 📚 Em Estudo
 
- 4. [Calculadora](https://github.com/Tatianakami/calculadora)
-Calculadora funcional construída com React.js.
+- **PHP + MySQL** – Criando sistema de login com autenticação segura e CRUD.
+- **Vue.js** – Projetos com rotas, componentes e consumo de APIs.
+- **Integração Front-Back** – Preparação para construir soluções full stack.
 
 ---
 
- 💼 Experiência Profissional
- 
-Analista Financeiro  
-Gestão de contas a receber, classificação e registro financeiro.
-
-Analista de Logística  
-Execução de inventários rotativos, garantindo a precisão logística.
-Gestão e controle de estoque para conformidade com os procedimentos da empresa.
- 
-Analista de Atendimento ao Cliente 
-Suporte via chat, e-mail e telefone, fornecendo soluções e acompanhamento de demandas.
 
 🎓 Formação Acadêmica
 
