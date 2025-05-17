@@ -1,4 +1,4 @@
-# Tatiana Kamioka
+# Tatiana Kami
 
 🎯 Desenvolvedora Web Júnior | PHP, Laravel, JavaScript, HTML, CSS, Docker  
 👩‍🎓 Engenheira de Produção com pós-graduação em Segurança da Informação e ADS  
