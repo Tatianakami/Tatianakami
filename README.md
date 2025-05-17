@@ -1,9 +1,10 @@
 # Tatiana Kamioka
 
-🎯 **Desenvolvedora Web em formação com foco em Front-end e PHP**  
-💻 HTML | CSS | JavaScript | Vue.js | PHP  
-📊 Engenheira de Produção com raciocínio analítico voltado à resolução de problemas reais  
-🔄 Em transição profissional com projetos funcionais voltados à experiência do usuário e soluções práticas.
+🎯 Desenvolvedora Web Júnior | PHP, Laravel, JavaScript, HTML, CSS, Docker  
+👩‍🎓 Engenheira de Produção com pós-graduação em Segurança da Informação e ADS  
+🚀 Focada em construir soluções eficientes com código limpo  
+🔍 Em busca de oportunidades para aplicar meus conhecimentos em desenvolvimento web
+
 
 ---
 
@@ -84,7 +85,40 @@ Estou aberta a oportunidades, colaboração em projetos e troca de ideias com a 
 - Pós-Graduação em Segurança da Informação – UNIDERP (2023-2024)
 - Bacharelado em Engenharia de Produção – UNIABC (2015)
 
+---<h1 align="center">Olá! 👋 Eu sou a Tatiana Kami</h1>
+
+<p align="center">
+  <strong>Desenvolvedora Web Júnior</strong> | PHP • Laravel • JavaScript • HTML • CSS • Docker
+</p>
+
+<p align="center">
+  Engenheira de Produção com pós-graduação em Segurança da Informação e Análise e Desenvolvimento de Sistemas.
+</p>
+
 ---
+
+### 🚀 Tecnologias que estou praticando
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+---
+
+### 🌱 Projetos em destaque
+
+- 🔢 [PHP-Divisio](https://github.com/Tatianakami/PHP-Divisio): Calculadora de divisão com visual moderno e explicação passo a passo da operação.
+- 🧮 [PHP_Numeros](https://github.com/Tatianakami/PHP_Numeros): Central matemática com operações como antecessor, sucessor, número primo, fatorial e mais!
+
+---
+
+
+
 
  🌐 Idiomas
 
