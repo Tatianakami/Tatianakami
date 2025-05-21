@@ -1,6 +1,6 @@
 # Tatiana Kami
 
-🎯 Desenvolvedora Web Júnior | PHP, Laravel, JavaScript, HTML, CSS, Docker  
+🎯 Desenvolvedora Full Stack Júnior | PHP, Laravel, JavaScript, HTML, CSS, Docker  
 👩‍🎓 Engenheira de Produção com pós-graduação em Segurança da Informação e ADS  
 🚀 Focada em construir soluções eficientes com código limpo  
 🔍 Em busca de oportunidades para aplicar meus conhecimentos em desenvolvimento web
