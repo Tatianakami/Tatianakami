@@ -1,6 +1,6 @@
 # Tatiana Kami
 
-🎯 Desenvolvedora Full Stack Júnior | PHP, Laravel, JavaScript, HTML, CSS, Docker  
+🎯 Desenvolvedora Full Stack Júnior | Python | Flask| PHP, Laravel, JavaScript, HTML, CSS, Docker  
 👩‍🎓 Engenheira de Produção com pós-graduação em Segurança da Informação e ADS  
 🚀 Focada em construir soluções eficientes com código limpo  
 🔍 Em busca de oportunidades para aplicar meus conhecimentos em desenvolvimento web
@@ -12,7 +12,7 @@
 
 Sou Tatiana Kamioka, apaixonada por tecnologia e por resolver problemas reais com código. Minha formação em Engenharia de Produção me proporcionou visão sistêmica, pensamento crítico e capacidade de análise — habilidades que aplico diretamente no desenvolvimento de interfaces modernas, funcionais e centradas no usuário.
 
-Atualmente me dedico aos estudos de desenvolvimento web, com foco em **Front-end (HTML, CSS, JavaScript e Vue.js)** e **Back-end com PHP e MySQL**, visando me tornar uma **Full Stack Developer Júnior** preparada para atuar em projetos de impacto.
+Atualmente me dedico aos estudos de desenvolvimento web, com foco em **Front-end (HTML, CSS, JavaScript e Vue.js)** e **Back-end com Python, PHP e MySQL**, visando me tornar uma **Full Stack Developer Júnior** preparada para atuar em projetos de impacto.
 
 ---
 
@@ -21,7 +21,7 @@ Atualmente me dedico aos estudos de desenvolvimento web, com foco em **Front-end
 - **HTML5 & CSS3** – Layouts responsivos, semântica, animações e design moderno.
 - **JavaScript** – Manipulação de DOM, lógica, interatividade e validações.
 - **Vue.js** – Componentização, reatividade e projetos SPA em estudo.
-- **PHP & MySQL** – Backend em construção, com lógica de autenticação, banco de dados e integração simples.
+- **PHP** Python** & MySQL** – Backend em construção, com lógica de autenticação, banco de dados e integração simples.
 - **Python (básico)** – Uso em scripts e pequenos projetos integrados a front-end.
 - **Versionamento** – Git & GitHub para controle de versões e colaboração.
 
