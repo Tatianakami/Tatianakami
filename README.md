@@ -32,7 +32,8 @@ Python Developer | Analista de Dados em formação contínua. Apaixonada por res
 <!-- Banco de Dados -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
-<img src="https://mariadb.org/wp-content/uploads/2019/11/mariadb-logo-blue.png" alt="MariaDB" width="120"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mariadb.svg" alt="MariaDB" width="40" height="40"/>
+
 
 
 
