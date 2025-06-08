@@ -13,7 +13,9 @@ Python Developer | Analista de Dados em formação contínua. Apaixonada por res
 
 ### 🧠 Sobre mim
 
-Formada em Engenharia de Produção e com pós-graduação em andamento em Análise de Sistemas e Segurança da Informação, estou migrando com propósito para a área de tecnologia. Tenho me especializado em Python para análise de dados, desenvolvimento de aplicações web com Flask e manipulação de bancos relacionais (MySQL/MariaDB/SQLite). Valorizo soluções simples, acessíveis e bem estruturadas.
+🎓 Formada em Engenharia de Produção, com pós-graduação em Análise e Desenvolvimento de Sistemas e Segurança da Informação, estou em transição de carreira com foco estratégico na área de tecnologia e dados.
+💻 Tenho me especializado em Python para Análise de Dados, desenvolvendo projetos que integram Front-End e Back-End, com ênfase em aplicações web usando Flask e bancos de dados relacionais (MySQL, MariaDB, SQLite).
+🚀 Acredito em soluções simples, acessíveis e bem estruturadas, buscando sempre unir usabilidade com organização de código e boas práticas de desenvolvimento.
 
 ---
 
