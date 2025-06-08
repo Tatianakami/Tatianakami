@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tatianakami/Tatianakami/main/banner-linkedin.png" alt="Tatiana Kamioka Banner" width="100%">
+  <img src="https://github.com/Tatianakami/Tatianakami/raw/main/banner.png" alt="Banner Tatiana Kami" width="100%">
 </p>
+
 
 <h1 align="center">Olá! Eu sou a Tatiana Kami 👩‍💻</h1>
 
