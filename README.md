@@ -63,7 +63,7 @@ Tenho formação em Engenharia de Produção e pós-graduação em Segurança da
 ### 📫 Contato
 
 - 📍 São Paulo, Brasil  
-- ✉️ tatianakami@gmail.com  
+- ✉️tatiana.kamioka.dev@gmail.com 
 - 💼 [LinkedIn](https://linkedin.com/in/tatiana-kami)  
 - 🌐 [Portfólio](https://tatianakami.github.io)  
 
