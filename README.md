@@ -3,84 +3,75 @@
 </p>
 
 
-<h1 align="center">Olá! Eu sou a Tatiana Kami 👩‍💻</h1>
+<h1 align="center">Olá, eu sou a Tatiana Kami 👩‍💻</h1>
 
 <p align="center">
-Python Developer | Analista de Dados em formação contínua. Apaixonada por resolver problemas com código, dados e visualizações inteligentes. 🚀
+  Desenvolvedora Backend Python & Analista de Dados <br>
+  Interfaces Frontend para soluções completas
+</p>
+
+<p align="center">
+  <a href="https://tatianakami.github.io" target="_blank">🌐 Portfólio</a> • 
+  <a href="https://linkedin.com/in/tatiana-kami" target="_blank">💼 LinkedIn</a> • 
+  <a href="mailto:tatianakami@gmail.com">✉️ Email</a>
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### 🚀 Sobre mim
 
-🎓 Formada em Engenharia de Produção, com pós-graduação em Análise e Desenvolvimento de Sistemas e Segurança da Informação, estou em transição de carreira com foco estratégico na área de tecnologia e dados.
-💻 Tenho me especializado em Python para Análise de Dados, desenvolvendo projetos que integram Front-End e Back-End, com ênfase em aplicações web usando Flask e bancos de dados relacionais (MySQL, MariaDB, SQLite).
-🚀 Acredito em soluções simples, acessíveis e bem estruturadas, buscando sempre unir usabilidade com organização de código e boas práticas de desenvolvimento.
+Sou desenvolvedora focada em backend com Python e análise de dados, criando APIs, sistemas e dashboards inteligentes. Para entregar soluções completas, também desenvolvo interfaces frontend simples e funcionais, que dão vida aos meus projetos.
 
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-<!-- Linguagens -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-
-<!-- Banco de Dados -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mariadb.svg" alt="MariaDB" width="40" height="40"/>
-
-
-
-
-
-<!-- Bibliotecas Python -->
-<img src="https://numpy.org/images/logo.svg" title="NumPy" alt="NumPy" width="60"/>
-<img src="https://pandas.pydata.org/static/img/pandas_white.svg" title="Pandas" alt="Pandas" width="80"/>
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="100"/>
-<img src="https://matplotlib.org/_static/logo2_compressed.svg" title="Matplotlib" alt="Matplotlib" width="80"/>
-<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" title="Streamlit" alt="Streamlit" width="100"/>
-
-<!-- Web & Dev -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
-
-</div>
+Tenho formação em Engenharia de Produção e pós-graduação em Segurança da Informação e Análise de Sistemas. Estou em transição para a área de tecnologia com propósito e muita dedicação.
 
 ---
 
-### 📊 Meus Projetos em Destaque
+### 🛠️ Tecnologias e ferramentas
 
-- 📘 [Agenda Flask](https://github.com/Tatianakami/agenda-flask) — CRUD com Flask + SQLite  
-- 🧪 [Gerenciador de Produtos](https://github.com/Tatianakami/gerenciador-produtos-validade) — controle de validade com JavaScript  
-- 🔐 [Login Bancário Simulado](https://github.com/Tatianakami/login-banco) — interface de autenticação simples
-
-Em andamento:
-- 📈 Dashboard interativo de feminicídio com dados do IPEA (Python + Streamlit)
-- 📂 Projeto com integração de banco de dados MySQL via Python para análise de dados
-
----
-
-### 🌐 Onde me encontrar
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/tatiana-kami/)
-- 💻 [Portfólio](https://tatianakami.github.io/)
-- 📧 tatianakamioka@gmail.com
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)  
+![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)  
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)  
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=for-the-badge&logo=streamlit)  
+![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker)  
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)
 
 ---
 
-### 🎯 Objetivo Profissional
+### 📂 Projetos Organizados
 
-Atuar como **Python Developer** ou **Analista de Dados**, contribuindo para a construção de soluções orientadas por dados, APIs inteligentes ou sistemas back-end eficientes.  
-Estou aberta a posições remotas, híbridas ou presenciais.
+#### 🔧 Backend Python & PHP
+- [workoutapi](https://github.com/Tatianakami/workoutapi) — API de treinos em Python  
+- [controle_financas](https://github.com/Tatianakami/controle_financas) — Controle financeiro com PHP  
+- [Sistema_Python_Banco_](https://github.com/Tatianakami/Sistema_Python_Banco_) — Sistema bancário em Python  
+- [PHP-Salario-Calculo](https://github.com/Tatianakami/PHP-Salario-Calculo) — Cálculos salariais em PHP  
+
+#### 📊 Análise de Dados & Dashboards  
+- [analise-feminicidio-brasil](https://github.com/Tatianakami/analise-feminicidio-brasil) — Análise social com Streamlit  
+- [Analise-de-vendas-Python](https://github.com/Tatianakami/Analise-de-vendas-Python) — Dashboard interativo de vendas  
+- [Pythongrafico-Analise-dedados](https://github.com/Tatianakami/Pythongrafico-Analise-dedados) — Gráficos com matplotlib e pandas  
+
+#### 🎨 Frontend (Interfaces simples e funcionais)  
+- [bank-login-app](https://github.com/Tatianakami/bank-login-app) — Login bancário  
+- [carrossel-pets](https://github.com/Tatianakami/carrossel-pets) — Vue.js para carrossel de pets  
+- [To-do-list-app](https://github.com/Tatianakami/To-do-list-app) — Lista de tarefas em JavaScript  
 
 ---
+
+### 📫 Contato
+
+- 📍 São Paulo, Brasil  
+- ✉️ tatianakami@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/tatiana-kami)  
+- 🌐 [Portfólio](https://tatianakami.github.io)  
+
+---
+
+> “Transformando lógica em soluções e dados em decisões.”
+
+
 
 <p align="center">
 <em>“Transformar dados em decisões e código em soluções.”</em> 🌟  
