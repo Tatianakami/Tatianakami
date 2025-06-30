@@ -61,7 +61,7 @@ Busco uma oportunidade para aplicar minhas competências, crescer na área de da
 
 ---
 
-## 📂 Projetos Organizados
+## 📂 Projetos 
 
 ### 🔧 Backend (Python & PHP)
 - [workoutapi](https://github.com/Tatianakami/workoutapi) — API de treinos em Python  
