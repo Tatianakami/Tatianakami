@@ -33,7 +33,7 @@
 
 Sou **Engenheira de Produção com sólida experiência na área financeira** e atualmente em transição para a área de tecnologia, com pós-graduação em **Análise e Desenvolvimento de Sistemas** e **Segurança da Informação**.
 
-Tenho paixão por transformar dados complexos em insights estratégicos que ajudam na tomada de decisão. Trabalho com desenvolvimento backend em **Python** e **C#**, criando APIs, sistemas e automações que entregam soluções práticas e escaláveis.
+Tenho paixão por transformar dados complexos em insights estratégicos que ajudam na tomada de decisão. Trabalho com desenvolvimento backend em **Python** e **C#**, criando APIs, Front-End JavaScript, HTML, CSS.
 
 Além disso, desenvolvo análises de dados e dashboards interativos com ferramentas como **Power BI** e **Streamlit**, trazendo clareza e visualização eficaz para os resultados.
 
