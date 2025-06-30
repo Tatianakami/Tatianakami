@@ -17,7 +17,7 @@
   </a>
   &nbsp;
   <a href="https://tatianakami.github.io" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Portfólio-4BC4F7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+    <img src="https://img.shields.io/badge/Portfólio-4BC4F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
   </a>
 </p>
 
@@ -31,7 +31,15 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedora em transição para tecnologia, focada em Análise de Dados e Backend, com aprendizado continuos  em C#, Python, SQL e Power BI. Minha missão é transformar lógica em soluções e dados em decisões, entregando projetos completos e funcionais.
+Sou **Engenheira de Produção com sólida experiência na área financeira** e atualmente em transição para a área de tecnologia, com pós-graduação em **Análise e Desenvolvimento de Sistemas** e **Segurança da Informação**.
+
+Tenho paixão por transformar dados complexos em insights estratégicos que ajudam na tomada de decisão. Trabalho com desenvolvimento backend em **Python** e **C#**, criando APIs, sistemas e automações que entregam soluções práticas e escaláveis.
+
+Além disso, desenvolvo análises de dados e dashboards interativos com ferramentas como **Power BI** e **Streamlit**, trazendo clareza e visualização eficaz para os resultados.
+
+Meu foco é unir **raciocínio analítico, habilidades técnicas e conhecimento de negócio** para construir projetos completos, do backend à apresentação visual, sempre com qualidade e atenção aos detalhes.
+
+Busco uma oportunidade para aplicar minhas competências, crescer na área de dados e contribuir para projetos que façam a diferença.
 
 ---
 
@@ -40,13 +48,12 @@ Sou desenvolvedora em transição para tecnologia, focada em Análise de Dados e
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="32" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="32" height="32" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="32" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="32" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="32" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="32" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" />
@@ -84,15 +91,5 @@ Sou desenvolvedora em transição para tecnologia, focada em Análise de Dados e
 <p align="center">
   Feito com ❤️ por Tatiana Kami
 </p>
-
-
-> “Transformando lógica em soluções e dados em decisões.”
-
-
-
-<p align="center">
-<em>“Transformar dados em decisões e código em soluções.”</em> 🌟  
-</p>
-
 
 
