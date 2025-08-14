@@ -1,30 +1,19 @@
-<h1 align="center">Olá, eu sou a Tatiana Kami 👩‍💻</h1>
+# 👩‍💻 Tatiana Kami
 
-<p align="center">
-🌱 Em transição de carreira | 🎓 Estudante de Ciência da Computação | 💻 Apaixonada por tecnologia  
-</p>
-
-<p align="center">
-  <a href="mailto:tatiana.kamioka.dev@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/tatiana-kami" target="_blank">💼 LinkedIn</a> •
-  <a href="https://github.com/Tatianakami" target="_blank">🐙 GitHub</a> •
-  <a href="https://tatiana-kamioka-portfolio.vercel.app/" target="_blank">🌐 Portfólio</a>
-</p>
+💻 Desenvolvedora Júnior (C# | Python) | SQL • Power BI • Análise de Dados & Backend  
+📍 São Paulo | 📧 tatianakami@email.com | [LinkedIn](https://linkedin.com/in/tatiana-kami) | [Portfólio](https://tatianakami.github.io)
 
 ---
 
-## 🧭 Sobre Mim
+## 🚀 Sobre Mim
+Sou formada em **Engenharia de Produção**, com pós-graduação em **Segurança da Informação** e **Análise e Desenvolvimento de Sistemas**.  
+Atualmente curso **Ciência da Computação** e estou em transição de carreira para **Desenvolvimento Backend** e **Análise de Dados**.
 
-Olá! Sou a Tatiana Lima. Sou formada em **Engenharia de Produção**, com pós-graduação em **Segurança da Informação** e **Análise e Desenvolvimento de Sistemas**. Atualmente, estou cursando **Ciência da Computação** e realizando minha **transição de carreira** para a área de **Desenvolvimento Web** e **Análise de Dados**.
-
-Estou constantemente me atualizando, criando projetos práticos e estudando tecnologias como PHP, Python, React, Banco de Dados, Power BI e muito mais. Aqui no meu GitHub você encontra meu **portfólio vivo**, onde compartilho minha evolução e aprendizados.
-
-> “Transformar dados em decisões e código em soluções.” 🌟
+💡 **Missão**: Transformar dados em decisões e código em soluções.
 
 ---
 
-## 🧠 Tecnologias que estudo e utilizo:
-
+## 🛠 Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -38,38 +27,46 @@ Estou constantemente me atualizando, criando projetos práticos e estudando tecn
 
 ---
 
-## 📂 Meus projetos estão organizados por categoria:
-
-### 🔧 Desenvolvimento Web:
-- [Controle de Finanças em PHP](https://github.com/Tatianakami/controle_financas)
-- [Calculadora Matemática](https://github.com/Tatianakami/PHP_Calculadora_Matematica)
-- [Conversor de Moedas](https://github.com/Tatianakami/conversor-moedas)
-- [To-do List App](https://github.com/Tatianakami/To-do-list-app)
-- [Bank Login App](https://github.com/Tatianakami/bank-login-app)
-
-### 📊 Análise de Dados:
-- [Feminicídio no Brasil](https://github.com/Tatianakami/analise-feminicidio-brasil)
-- [Dashboard Comercial Power BI](https://github.com/Tatianakami/Dashboard-Comercial-PowerBI)
-- [Análise de Vendas com Python](https://github.com/Tatianakami/Analise-de-vendas-Python)
-
-### 🧠 Inteligência de Dados e APIs:
-- [API Promoções Supermercado](https://github.com/Tatianakami/api-promocoes-supermercado)
-- [Busca de CEP com API](https://github.com/Tatianakami/buscador-cep)
-- [Clima Tempo App](https://github.com/Tatianakami/Clima-tempo-app)
-
-### 🗃️ Banco de Dados:
-- [E-commerce DB - DIO](https://github.com/Tatianakami/ecommerce-db)
-- [Modelagem Oficina Mecânica](https://github.com/Tatianakami/modelagem_oficina_mecanica)
-- [Banco de Dados Viagens](https://github.com/Tatianakami/Banco-de-dados-Viagens)
+## 📌 Projetos em Destaque
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [📊 Dashboard Comercial Power BI](https://github.com/Tatianakami/Dashboard_Eletro) | Métricas de vendas, ticket médio e produtos mais vendidos. | Power BI |
+| [⚙️ API Bancária FastAPI](https://github.com/Tatianakami/api-bancaria-fastapi) | CRUD com autenticação JWT. | Python, FastAPI, PostgreSQL |
+| [📉 Feminicídio no Brasil](https://github.com/Tatianakami/analise-feminicidio-brasil) | Análise de dados com Streamlit. | Python, Pandas |
+| [💳 Bank Login App](https://github.com/Tatianakami/bank-login-app) | Interface web responsiva. | HTML, CSS, JS |
 
 ---
 
-## ✨ Objetivo
+## 📂 Projetos por Categoria
 
-Minha meta é atuar como **Desenvolvedora Backend** ou **Analista de Dados**, aplicando minha bagagem multidisciplinar para criar soluções reais com código limpo, visualização de dados e integração de sistemas.
+### 🔧 Desenvolvimento Web:
+[Controle de Finanças em PHP](https://github.com/Tatianakami/controle_financas) •  
+[Calculadora Matemática](https://github.com/Tatianakami/PHP_Calculadora_Matematica) •  
+[Conversor de Moedas](https://github.com/Tatianakami/conversor-moedas) •  
+[To-do List App](https://github.com/Tatianakami/To-do-list-app) •  
+[Bank Login App](https://github.com/Tatianakami/bank-login-app)  
+
+### 📊 Análise de Dados:
+[Feminicídio no Brasil](https://github.com/Tatianakami/analise-feminicidio-brasil) •  
+[Dashboard Comercial Power BI](https://github.com/Tatianakami/Dashboard-Comercial-PowerBI) •  
+[Análise de Vendas com Python](https://github.com/Tatianakami/Analise-de-vendas-Python)  
+
+### 🧠 APIs e Inteligência de Dados:
+[API Promoções Supermercado](https://github.com/Tatianakami/api-promocoes-supermercado) •  
+[Busca de CEP com API](https://github.com/Tatianakami/buscador-cep) •  
+[Clima Tempo App](https://github.com/Tatianakami/Clima-tempo-app)  
+
+### 🗃️ Banco de Dados:
+[E-commerce DB - DIO](https://github.com/Tatianakami/ecommerce-db) •  
+[Modelagem Oficina Mecânica](https://github.com/Tatianakami/modelagem_oficina_mecanica) •  
+[Banco de Dados Viagens](https://github.com/Tatianakami/Banco-de-dados-Viagens)  
+
+---
+
+## 🎯 Objetivo
+Atuar como **Desenvolvedora Backend** ou **Analista de Dados**, aplicando minha bagagem multidisciplinar para criar soluções reais com código limpo, visualização de dados e integração de sistemas.
 
 ---
 
 <p align="center">Feito com ❤️ por Tatiana Kami</p>
-
 
