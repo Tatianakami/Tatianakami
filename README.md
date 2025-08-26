@@ -1,6 +1,6 @@
 # 👩‍💻 Tatiana Kami
 
-💻 Desenvolvedora Júnior (C# | Python) | SQL • Power BI • Análise de Dados & Backend  
+💻 Desenvolvedora Web Full Stack Júnior |C#| Python| Análise de Dados & Machine Learning|Estudante de Ciência da Computação 
 📍 São Paulo | 📧 tatiana.kamioka.dev@Gmail.com | [LinkedIn](https://linkedin.com/in/tatiana-kami) | [Portfólio](https://tatianakami.github.io)
 
 ---
