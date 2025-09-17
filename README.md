@@ -1,6 +1,6 @@
 # 👩‍💻 Tatiana Kami
 
-💻 Computer Science Student | Focus on Data and Back-end Engineering | Python, SQL, C#, Power BI
+💻 Estudante de Ciência da Computação | Foco em Dados e Engenharia de Back-end | Python, SQL, C#, Power BI
 
 📍 São Paulo | 📧 tatiana.kamioka.dev@Gmail.com | [LinkedIn](https://linkedin.com/in/tatiana-kami) | [Portfólio](https://tatianakami.github.io)
 
