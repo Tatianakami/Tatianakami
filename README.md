@@ -1,8 +1,6 @@
 # 👩‍💻 Tatiana Kami
 
-💻 Analista de Dados e Desenvolvedora Web (Nível Júnior)
-Python • SQL • Power BI • Dashboards Interativos
-Estudante de Ciência da Computação
+💻 Computer Science Student | Focus on Data and Back-end Engineering | Python, SQL, C#, Power BI
 
 📍 São Paulo | 📧 tatiana.kamioka.dev@Gmail.com | [LinkedIn](https://linkedin.com/in/tatiana-kami) | [Portfólio](https://tatianakami.github.io)
 
