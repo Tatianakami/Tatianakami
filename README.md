@@ -57,6 +57,13 @@ Análise de Dados
 
 ## 📂 Projetos por Categoria
 
+### 🗃️ Banco de Dados:
+[E-commerce DB - DIO](https://github.com/Tatianakami/ecommerce-db) •  
+[Modelagem Oficina Mecânica](https://github.com/Tatianakami/modelagem_oficina_mecanica) •  
+[Banco de Dados Viagens](https://github.com/Tatianakami/Banco-de-dados-Viagens)  
+[Qlik Talend](https://github.com/Tatianakami/qlik-replicate-lab)
+
+
 ### 🔧 Desenvolvimento Web:
 [Controle de Finanças em PHP](https://github.com/Tatianakami/controle_financas) •  
 [Calculadora Matemática](https://github.com/Tatianakami/PHP_Calculadora_Matematica) •  
@@ -78,6 +85,7 @@ Análise de Dados
 [E-commerce DB - DIO](https://github.com/Tatianakami/ecommerce-db) •  
 [Modelagem Oficina Mecânica](https://github.com/Tatianakami/modelagem_oficina_mecanica) •  
 [Banco de Dados Viagens](https://github.com/Tatianakami/Banco-de-dados-Viagens)  
+https://github.com/Tatianakami/qlik-replicate-lab
 
 ---
 
