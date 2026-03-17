@@ -64,13 +64,6 @@ Análise de Dados
 [Qlik Talend](https://github.com/Tatianakami/qlik-replicate-lab)
 
 
-### 🔧 Desenvolvimento Web:
-[Controle de Finanças em PHP](https://github.com/Tatianakami/controle_financas) •  
-[Calculadora Matemática](https://github.com/Tatianakami/PHP_Calculadora_Matematica) •  
-[Conversor de Moedas](https://github.com/Tatianakami/conversor-moedas) •  
-[To-do List App](https://github.com/Tatianakami/To-do-list-app) •  
-[Bank Login App](https://github.com/Tatianakami/bank-login-app)  
-
 ### 📊 Análise de Dados:
 [Feminicídio no Brasil](https://github.com/Tatianakami/analise-feminicidio-brasil) •  
 [Dashboard Comercial Power BI](https://github.com/Tatianakami/Dashboard-Comercial-PowerBI) •  
@@ -81,11 +74,14 @@ Análise de Dados
 [Busca de CEP com API](https://github.com/Tatianakami/buscador-cep) •  
 [Clima Tempo App](https://github.com/Tatianakami/Clima-tempo-app)  
 
-### 🗃️ Banco de Dados:
-[E-commerce DB - DIO](https://github.com/Tatianakami/ecommerce-db) •  
-[Modelagem Oficina Mecânica](https://github.com/Tatianakami/modelagem_oficina_mecanica) •  
-[Banco de Dados Viagens](https://github.com/Tatianakami/Banco-de-dados-Viagens)  
-https://github.com/Tatianakami/qlik-replicate-lab
+### 🔧 Desenvolvimento Web:
+[Controle de Finanças em PHP](https://github.com/Tatianakami/controle_financas) •  
+[Calculadora Matemática](https://github.com/Tatianakami/PHP_Calculadora_Matematica) •  
+[Conversor de Moedas](https://github.com/Tatianakami/conversor-moedas) •  
+[To-do List App](https://github.com/Tatianakami/To-do-list-app) •  
+[Bank Login App](https://github.com/Tatianakami/bank-login-app)  
+
+
 
 ---
 
