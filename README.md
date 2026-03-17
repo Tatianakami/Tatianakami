@@ -1,20 +1,31 @@
-# 👩‍💻 Tatiana Kami
+👩‍💻 Tatiana Kamioka
 
-💻 Data Analysis and Engineering in training | Python, SQL, Spark, and Power BI | Computer Science
+💻 Data Engineering & Data Analysis in Training
+🎓 Computer Science Student
 
-📍 São Paulo | 📧 tatiana.kamioka.dev@Gmail.com | [LinkedIn](https://linkedin.com/in/tatiana-kami) | [Portfólio](https://tatianakami.github.io)
+📍 São Paulo | 📧 tatiana.kamioka.dev@gmail.com | LinkedIn | Portfólio
 
----
+🚀 Sobre Mim
 
-## 🚀 Sobre Mim
-Sou formada em **Engenharia de Produção**, com pós-graduação em **Segurança da Informação** e **Análise e Desenvolvimento de Sistemas**.  
-Atualmente curso **Ciência da Computação** e estou em transição de carreira para **Desenvolvimento Backend** e **Análise de Dados**.
+Sou formada em Engenharia de Produção, com pós-graduação em Segurança da Informação e Análise e Desenvolvimento de Sistemas.
 
-💡 **Missão**: Transformar dados em decisões e código em soluções.
+Atualmente curso Ciência da Computação e estou em transição de carreira para a área de Dados, com foco em:
+
+Engenharia de Dados
+
+Arquitetura de Dados
+
+Pipelines de Dados
+
+Análise de Dados
+
+💡 Missão: transformar dados em decisões e construir soluções baseadas em dados.
 
 ---
 
 ## 🛠 Tecnologias
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -25,6 +36,12 @@ Atualmente curso **Ciência da Computação** e estou em transição de carreira
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-017CEE?style=flat-square&logo=apache&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
