@@ -5,7 +5,7 @@
 
 📍 São Paulo  
 📧 tatiana.kamioka.dev@gmail.com  
-🔗 [LinkedIn](linkedin.com/in/tatiana-kami) | [Portfólio](tatianakamioka.com)
+🔗🔗 [LinkedIn](https://linkedin.com/in/tatiana-kami) | [Portfólio](https://tatianakamioka.com)
 
 👩‍💻 Estagiária na área de Dados com experiência em integração e análise de dados  
 🎓 Estudante de Ciência da Computação  
