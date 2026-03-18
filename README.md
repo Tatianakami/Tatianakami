@@ -76,13 +76,5 @@ Focada em construção de pipelines, integração de dados e geração de insigh
 [Bank Login App](https://github.com/Tatianakami/bank-login-app)  
 
 
-
----
-
-## 🎯 Objetivo
-Atuar como **Desenvolvedora Backend** ou **Analista de Dados**, aplicando minha bagagem multidisciplinar para criar soluções reais com código limpo, visualização de dados e integração de sistemas.
-
----
-
 <p align="center">Feito com ❤️ por Tatiana Kami</p>
 
