@@ -15,8 +15,8 @@ Atuo com:
 - Consultas e manipulação com SQL
 - Análise de dados com Python (Pandas)
 - Visualização de dados com Power BI
-
-📊 Desenvolvendo soluções práticas para transformar dados em informação e apoiar decisões.
+  
+📊 Experiência na construção de soluções práticas para transformar dados em informação e apoiar decisões.
 ---
 
 ## 🛠 Tecnologias
